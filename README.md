@@ -1,6 +1,7 @@
 # Exercise-1---Perelaer-J---37543636
 Homework Exercise 1: Create Your Own Code
 
+/*Initial Commit*/
 
 This source code addresses the issue of implementing a straightforward command-line "Rock, Paper, Scissors" game in Python.
  Two players select one of the three possibilities, rock, paper, or scissors, and the winner is decided according to the following rules: rock beats scissors, scissors beat paper, and paper beats rock.
